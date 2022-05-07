@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.verde {
+    background: #28a745;
+}
+
+.logo {
+    margin-left: 15px;
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+p {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.precio {
+    font-size: 13px;
+    padding-right: 5px;
+}
+
+.btn {
+
+    color:#212529;
+    text-align: center;
+    background: #F8F9FA;
+ }
+
+ .imagen{
+     width: 100px;
+ }
